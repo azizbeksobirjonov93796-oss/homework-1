@@ -1,4 +1,3 @@
-# 1-Topshiriq: Car
 
 class Car:
     markasi = ""
@@ -28,7 +27,7 @@ print(car2.modeli)
 print(car2.yili)
 
 
-# 2-Topshiriq: Student
+
 
 class oquvchi:
     ism = ""
