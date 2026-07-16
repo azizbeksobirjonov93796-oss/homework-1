@@ -45,7 +45,7 @@ print(oquvchi1.yosh)
 print(oquvchi1 .sinf)
 
 print()
-# 3-Topshiriq: Book
+
 
 class Book:
     nomi = ""
